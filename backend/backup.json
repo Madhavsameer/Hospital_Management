@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "_id": "67b09e8147d90bd226ca2513",
+      "username": "madhav",
+      "password": "$2b$10$wgxYMXI9LtP1GtWRPEpUGOtBztxvlsyIUL0bGjt8.aP6z1W9rT05u",
+      "__v": 0
+    },
+    {
+      "_id": "67b0a9a1deb8ebb96e1b58fb",
+      "username": "akash",
+      "password": "$2b$10$3Ns8Gz3RfOAieKPZgaqZW.cmM.4LHRv9/4jBUDnlQ7qpHqQA7rWD6",
+      "__v": 0
+    },
+    {
+      "_id": "67c4617ed95053e4b08549b1",
+      "username": "ytmax",
+      "password": "$2b$10$zjWj8IVdaAxcqWwfC5BF6OR9NbNRs1J2w6QKWDPJkHFc34pHOVmvq",
+      "__v": 0
+    },
+    {
+      "_id": "67c6186cfcfdc7f74bf0884d",
+      "username": "baba",
+      "password": "$2b$10$ZrR/JCkxnRFUVGVOcTt5K.kww23Qcf9FxukRtpGIEZwf82bORZbpu",
+      "__v": 0
+    },
+    {
+      "_id": "67c619a3fcfdc7f74bf08857",
+      "username": "babaji",
+      "password": "$2b$10$IozVT.sMh8P6/Pwz7r0Nme/RUU5EuL.Ljta6rMv7.13ajmtaiyeqq",
+      "__v": 0
+    },
+    {
+      "_id": "67c61d56fcfdc7f74bf08877",
+      "username": "ludu",
+      "password": "$2b$10$uKCPPscnkhR3tBgSIeMaQeg6OY1O.iJHRtyobD1Z5aTzpzCTCSVgC",
+      "__v": 0
+    }
+  ],
+  "data": [
+    {
+      "data": {
+        "iv": "c291893ed865c0ac360529d3ddd98687",
+        "data": "6cf9a54a99ffbc181721a5b10d2b127e"
+      },
+      "_id": "67b0a00b52401425f9c28dee",
+      "userId": "67b09e8147d90bd226ca2513",
+      "__v": 0
+    },
+    {
+      "data": {
+        "iv": "08247128dfdc797f72475c62f201fcdc",
+        "data": "9bc4dbac28d25bbba1cfb05ac3c1999f"
+      },
+      "_id": "67c6187efcfdc7f74bf08850",
+      "userId": "67c6186cfcfdc7f74bf0884d",
+      "__v": 0
+    },
+    {
+      "data": {
+        "iv": "c121a3745d66f148881d4e9975177cd0",
+        "data": "14e242aefbb6834882c2fa54c0f8c652"
+      },
+      "_id": "67c619ebfcfdc7f74bf08869",
+      "userId": "67c619a3fcfdc7f74bf08857",
+      "__v": 0
+    },
+    {
+      "data": {
+        "iv": "91cc65a0bb09d88068225b4adee3a396",
+        "data": "31db42d2e020b401b97bb75649ceb20d"
+      },
+      "_id": "67c61a93fcfdc7f74bf08870",
+      "userId": "67c6186cfcfdc7f74bf0884d",
+      "__v": 0
+    },
+    {
+      "data": {
+        "iv": "1441d65719d4f58a3749ee30875b7360",
+        "data": "5695be8ada5b9ef7668b6f2c57423076"
+      },
+      "_id": "67c62431fcfdc7f74bf0887d",
+      "userId": "67c6186cfcfdc7f74bf0884d",
+      "__v": 0
+    }
+  ]
+}
