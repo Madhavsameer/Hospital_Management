@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const RestoreData = () => {
   const handleRestore = async () => {
-    await axios.post('http://localhost:3000/restore', {}, { headers: { Authorization: localStorage.getItem('token') } });
+    await axios.post('https://hospital-management-0ke7.onrender.com/restore', {}, { headers: { Authorization: localStorage.getItem('token') } });
     alert('Data restored successfully!');
   };
 

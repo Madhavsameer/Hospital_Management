@@ -5,7 +5,7 @@ const FetchData = () => {
   const [fetchedData, setFetchedData] = useState([]);
 
   const handleFetch = async () => {
-    const response = await axios.get('http://localhost:3000/data', { headers: { Authorization: localStorage.getItem('token') } });
+    const response = await axios.get('https://hospital-management-0ke7.onrender.com/data', { headers: { Authorization: localStorage.getItem('token') } });
     setFetchedData(response.data);
   };
 

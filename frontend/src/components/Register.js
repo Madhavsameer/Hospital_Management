@@ -9,7 +9,7 @@ const Register = () => {
   const navigate = useNavigate();
 
   const handleRegister = async () => {
-    await axios.post('http://localhost:3000/register', { username, password });
+    await axios.post('https://hospital-management-0ke7.onrender.com/register', { username, password });
     alert('User registered successfully!');
     navigate('/login');
   };
